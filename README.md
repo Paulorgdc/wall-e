@@ -1,10 +1,8 @@
 # 🤖 WALL-E: Adaptive Learning & Educational AI Platform
 
-> **WALL-E** is an academic web-based adaptive learning platform designed to personalize educational content and provide interactive AI tutoring support for students and teachers.
+**WALL-E** is an academic web-based adaptive learning platform designed to personalize educational content and provide interactive AI tutoring support for students and teachers.
 
-![Category](https://img.shields.io/badge/CATEGORY-ACADEMIC_PROJECT-ff0055?style=for-the-badge)
-![Institution](https://img.shields.io/badge/UNIVAG-PROGRAMAÇÃO_RADICAL_2024-00f0ff?style=for-the-badge)
-![License](https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge)
+[![Category](https://img.shields.io/badge/CATEGORY-ACADEMIC%20PROJECT-e0004d?style=for-the-badge)](#)[![UNIVAG](https://img.shields.io/badge/UNIVAG-PROJETO%20INTEGRADOR%20EXTENSIONISTA-00c8ff?style=for-the-badge)](#)[![License](https://img.shields.io/badge/LICENSE-MIT-76b900?style=for-the-badge)](#)
 
 ---
 
