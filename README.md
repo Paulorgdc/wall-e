@@ -28,9 +28,34 @@ Developed during the **'Programação Radical 2024'** event at **UNIVAG**, **WAL
 
 ---
 
+## 📦 Deliverables
+
+| What | Where to see it |
+|---|---|
+| Student and educator portals with AI chat | `python backend/app.py`, then open the local Flask address |
+
+---
+
 ## 🛠️ Installation & Setup
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Paulorgdc/wall-e.git](https://github.com/Paulorgdc/wall-e.git)
+   git clone https://github.com/Paulorgdc/wall-e.git
    cd wall-e
+   ```
+
+2. Create a local Python environment and install the dependencies:
+   ```powershell
+   python -m venv venv
+   ./venv/Scripts/python.exe -m pip install -r requirements.txt
+   ```
+3. Consult `.env.example` for variable names. Provide the variables through
+   the environment used to launch Flask; copying a file alone does not prove
+   that a loader reads it.
+4. Start locally with `./venv/Scripts/python.exe backend/app.py`.
+   The documented Gunicorn entry point (`backend.app:app`) is for compatible
+   deployment environments; it is not the Windows development command.
+
+Academic context: the existing description and project note identify
+Programação Radical 2024; the badge currently identifies Projeto Integrador.
+Confirm the original institutional record before changing that classification.
